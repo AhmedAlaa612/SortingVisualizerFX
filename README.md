@@ -1,6 +1,6 @@
 
 https://github.com/AhmedAlaa612/SortingVisualizerFX/assets/53920535/76341247-46ab-45e2-a108-799249dff651
-Uploading SortingVisualizer.mp4…
+
 
 # Sorting Techniques Visualizer with JavaFX
 
