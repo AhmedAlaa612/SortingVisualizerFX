@@ -18,7 +18,7 @@ public class QuickSort {
         if(low < high) {
             int pi = partition(array, low, high);
             quickSort(array, low, pi - 1);
-            quickSort(array, pi + 1, high);
+            quickSort(array, pi, high);
         }
     }
 
